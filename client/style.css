@@ -1,0 +1,8 @@
+#loginContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -27px 0 0 -151px;
+    width: 300px;
+    height: 55px;
+}
